@@ -10,6 +10,16 @@ namespace consoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("HELOOO!");
+            Console.WriteLine("Args Length = " + args.Length);
+
+            for (int i = 0; i < args.Length; i++)
+            {
+                Console.WriteLine("Args[" + i + "] = " + args[0]);
+                Console.WriteLine("Args[" + i + "] = " + args[0]);
+
+            }
+            Console.ReadKey();
         }
     }
 }
