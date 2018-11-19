@@ -18,6 +18,7 @@ namespace consoleApp1
                 Console.WriteLine("Args[" + i + "] = " + args[0]);
                 Console.WriteLine("Args[" + i + "] = " + args[0]);
                 Console.WriteLine("Args[" + i + "] = " + args[0]);
+                Console.WriteLine("Args[" + i + "] = " + args[0]);
 
             }
             Console.ReadKey();
